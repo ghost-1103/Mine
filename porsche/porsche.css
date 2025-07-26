@@ -1,0 +1,106 @@
+body{
+    margin: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.big1{
+
+height: 0px;
+}
+video{
+    width: 100%;
+}
+.navbar{
+    width: 100%;
+    align-self: center;
+    position: relative;
+    top: -1060px;
+    color: white;
+    display: flex;  
+}
+.menu{
+    margin-left: 80px;
+}
+.name{
+    margin-left: 700px;
+}
+.icon{
+    margin-left: 870px;
+}
+.smallest{
+    border: 2px solid white;
+    width: 270px;
+}
+.small{
+    position: relative;
+    top: -1000px;
+    color: white;
+    margin-left: 200px;
+}
+.small h1{
+    font-size: 130px;
+}
+.small h3{
+    margin-left: 20px;
+}
+.big2{
+    margin-top: 110px;
+    margin-left: 300px;
+    
+}
+.p2{
+    margin-left: 30px;
+}
+.p3{
+    margin-left: 30px;
+}
+.big3{
+    margin-top: 110px;
+    margin-left: 300px;
+    
+}
+.p4{
+    margin-left: 30px;
+}
+.big4{
+    margin-top: 110px;
+    margin-left: 300px;
+    
+}
+.p5{
+    margin-left: 30px;
+}
+.big5{
+    margin-top: 110px;
+    margin-left: 300px;
+    
+}
+.big6{
+    margin-top: 110px;
+    margin-left: 240px;
+    
+}
+input{
+    width: 500px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 7px;
+}
+.big7{
+    margin-top: 110px;
+    margin-left: 300px;
+}
+input:placeholder-shown{
+    font-size: 20px;
+}
+.l{
+    position: relative;
+    top: -300px;
+    right: -748px;
+}
+.big8{
+    margin-left: 100px;
+}
+.big9{
+    margin-top: 110px;
+    margin-left: 300px;
+}
